@@ -15,6 +15,6 @@ move to the directory where the files are, then run the following codes
 Contact Moses at `mosesdaudu001@gmail.com` for adjustments to suit your needs.
 
 ### Potential Future Improvements
-I would like to imclude a functionality that allows it to work on videos as well with better accuracy. However, this would mean getting a better model that is custom to faces even in blurry situations. 
+I would like to include a functionality that allows it to work on videos as well with better accuracy. However, this would mean getting a better model that is custom to faces even in blurry situations. 
 
 ![Header](face@84.jpg)
